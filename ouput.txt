@@ -1,0 +1,2 @@
+Constant term (c) for src/main/java/testcase1.json: 4
+Constant term (c) for src/main/java/testcase2.json: 79836264046274
